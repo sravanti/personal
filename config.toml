@@ -1,0 +1,20 @@
+baseURL = "http://sravantitekumalla.com/"
+languageCode = "en-us"
+title = "Sravanti Tekumalla"
+canonifyURLs = true
+enableEmoji = true
+googleAnalytics = "UA-XXXXXX-1"
+theme = "hugo-kiera"
+paginate = 10
+pygmentsCodeFences = true
+disqusShortname = "" 
+[author]
+    name = "Sravanti"       #Author name
+    github = "sravanti"     #Github username
+    linkedin = "sravantitekumalla"   #LinkedIn username
+    twitter = "sravanti__"    #Twitter username
+
+[params]
+    tagline = "Building software, strength, and reslience."
+menu = "main"
+meta = "false"
