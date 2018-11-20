@@ -3,7 +3,7 @@ author: sravanti
 categories:
   - music
 date: 2016-02-13 06:03:01
-guid: http://sravantitekumalla.com/?p=30
+guid: https://sravantitekumalla.com/?p=30
 id: 30
 permalink: /delving-into-a-past-life/
 title: Delving into a past life

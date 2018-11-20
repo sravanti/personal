@@ -4,7 +4,7 @@ categories:
   - journalism
   - programming
 date: 2016-05-14 23:54:58
-guid: http://sravantitekumalla.com/?p=60
+guid: https://sravantitekumalla.com/?p=60
 id: 60
 permalink: /hillarys-inbox/
 title: Hillary's Inbox
@@ -95,11 +95,11 @@ Staffers have this topic unique to them:
   pm, s, office, secretary, meeting, treaty, room, house, state, private, conference, department, staff, white, route, arrive, time, depart, foreign, residence
 </h6>
 
-### 
+###
 
-### 
+###
 
-### 
+###
 
 ### Vocabulary differences among categories
 
@@ -143,7 +143,7 @@ The top 50 words that staffers use that ambassadors do not:
 
 Disclaimer: the ambassadors text file is pretty small, so this ended up being kind of a futile exercise.
 
-### 
+###
 
 ### Emails at all hours: Hillary’s emails sorted by time of day
 
@@ -226,55 +226,55 @@ Not surprisingly, instances of “thx” and “pls” were limited to recipient
 Sometimes, interesting data comes not by way of data analysis but by opening a random text file by accident and discovering an interesting exchange. I found an exchange between Clinton and Barbara Mikulski, the Democrat senator from Maryland that was heartwarming and supportive. Here’s a few excerpts of the emails (lightly edited for grammar / punctuation inconsistencies):
 
 > From: Barbara Mikulski
-> 
+>
 > To: Hillary Clinton
-> 
+>
 > Sent: Apr 12, 2009 12:03 PM
-> 
+>
 > Subject: Happy easter
-> 
+>
 > Best wishes to you and all of the clintons. All of us say a Hearty Hello and are so proud of what you are doing&#8212;-you are missed in the senate and by me. But you sure are needed where you are. I will be @ your. Foreign. Ops. Hearing. Let me know any questions you want me to ask to help get your needs/message across. Loved picture of you+obama on the lawn. Time for. Spring and the resurrection.
-> 
+>
 > As always. Your Pal
-> 
+>
 > Sent from my BlackBerry Wireless Handheld
 
 > From: Mikulski, BAM (Mikulski)
-> 
+>
 > Sent: Tuesday, June 30, 2009 10:15 PM
-> 
+>
 > To:
-> 
+>
 > Subject: Re: Sorry to hear re your fall
-> 
+>
 > Am so glad to hear frm you/Hi knew this was painful combined with logistics of being a woman&#8211;know. How stressful this must be&#8212;-the other night the senate women had dinner anyway&#8212;all sent good words. And encouragement. To a woman they all said. Oh my imagine just getting dressed and the hair thing. Get your therapy. Get better. The senate is slogging along, health care is starting to sag. &#8212; some days it feels like we are doing the public option off back of envelope. Call when you can. X.
-> 
+>
 > Sent from my BlackBerry Wireless Handheld
 
 > Original Message
-> 
+>
 > From: H <HDR22@clintonemail.com>
-> 
+>
 > To: Mikulski, BAM (Mikulski)
-> 
+>
 > Sent: Tue Jun 30 17:58:56 2009
-> 
+>
 > Subject: Re: Sorry to hear re your fall
-> 
+>
 > Barb&#8211;Thanks, my dear friend, for your good wishes. I am on the mend,
-> 
+>
 > Let&#8217;s try again for dinner soon. Happy 4th!! All the best, Hillary
 
 > From: Mikulski, BAM (Mikulski) <BAM@Mikulski.senate.gov>
-> 
+>
 > Sent: Monday, March 22, 2010 8:01 PM
-> 
+>
 > To:
-> 
+>
 > Subject Nuns. Health. Care
-> 
+>
 > Whew once again u are in the thick of thing&#8212; but didn&#8217;t it make your heart feel good about the passage of health care&#8212;-and the nuns pushed it over the finish line&#8212;as usual in the core front of social justice and a daring willingness to break with the boys&#8212;&#8212; if you need a tonic. Go to the nuns exhibit @ the. Smithsonian&#8212; Ripley Center. Gives the 250 year history of Nuns in Usa and their role in shaping our country and producing 1000s of women leaders with names like. Pelosi, Mikulski, Ferrar, Sebilius. takes less than a hour. You are doing great
-> 
+>
 > Sent from my BlackBerry Wireless Handheld
 
 ### Data sources and future work

@@ -3,7 +3,7 @@ author: sravanti
 categories:
   - journalism
 date: 2016-02-21 05:42:56
-guid: http://sravantitekumalla.com/?p=25
+guid: https://sravantitekumalla.com/?p=25
 id: 25
 permalink: /four-hour-reporting/
 title: Four-hour reporting

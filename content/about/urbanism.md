@@ -1,7 +1,7 @@
 ---
 author: sravanti
 date: 2018-01-29 16:16:52
-guid: http://sravantitekumalla.com/?page_id=144
+guid: https://sravantitekumalla.com/?page_id=144
 id: 144
 title: The informal education of a budding urbanist
 url: /the-informal-education-of-a-budding-urbanist

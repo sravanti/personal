@@ -3,7 +3,7 @@ author: sravanti
 categories:
   - journalism
 date: 2016-02-18 05:03:02
-guid: http://sravantitekumalla.com/?p=19
+guid: https://sravantitekumalla.com/?p=19
 id: 19
 permalink: /what-happened-when-i-kept-track-of-my-media-usage-for-a-week/
 title: What happened when I kept track of my media usage for a week?
@@ -18,7 +18,7 @@ Luckily, in this case, I'm a creature of habit: I relied on my daily trends of r
 
 I also delved into my Chrome history database to fill in the gaps. It's stored in sqlite format, so I ended up running a few queries against it to extract some telling statistics — or, as my media professor said in class, &#8220;Sravanti, you spend _so_ much time on Facebook!&#8221; (Sad, but true).<figure id="attachment_34" style="width: 672px" class="wp-caption aligncenter">
 
-<img class="wp-image-34 size-large" src="http://sravantitekumalla.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-23-at-1.13.43-AM-964x1024.png" alt="Screen Shot 2016-02-23 at 1.13.43 AM" width="672" height="714" srcset="http://sravantitekumalla.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-23-at-1.13.43-AM-964x1024.png 964w, http://sravantitekumalla.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-23-at-1.13.43-AM-282x300.png 282w, http://sravantitekumalla.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-23-at-1.13.43-AM-768x816.png 768w, http://sravantitekumalla.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-23-at-1.13.43-AM-800x850.png 800w, http://sravantitekumalla.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-23-at-1.13.43-AM.png 1156w" sizes="(max-width: 672px) 100vw, 672px" /><figcaption class="wp-caption-text">Proof that I spend too much time on social media.</figcaption></figure> 
+<img class="wp-image-34 size-large" src="https://sravantitekumalla.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-23-at-1.13.43-AM-964x1024.png" alt="Screen Shot 2016-02-23 at 1.13.43 AM" width="672" height="714" srcset="https://sravantitekumalla.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-23-at-1.13.43-AM-964x1024.png 964w, https://sravantitekumalla.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-23-at-1.13.43-AM-282x300.png 282w, https://sravantitekumalla.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-23-at-1.13.43-AM-768x816.png 768w, https://sravantitekumalla.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-23-at-1.13.43-AM-800x850.png 800w, https://sravantitekumalla.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-23-at-1.13.43-AM.png 1156w" sizes="(max-width: 672px) 100vw, 672px" /><figcaption class="wp-caption-text">Proof that I spend too much time on social media.</figcaption></figure>
 
 I'm not going to pretend I exclusively consume &#8220;meaningful&#8221; media though — the week I kept track of my media usage was the week that the new Kanye album came out and when new tidbits of information about the Gilmore Girls revival were released. I read more articles about both topics than I care to admit, and it showed in my media consumption.
 

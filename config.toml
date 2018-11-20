@@ -1,4 +1,4 @@
-baseURL = "http://sravantitekumalla.com/"
+baseURL = "https://sravantitekumalla.com/"
 languageCode = "en-us"
 title = "Sravanti Tekumalla"
 canonifyURLs = true

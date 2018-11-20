@@ -3,7 +3,7 @@ author: sravanti
 categories:
   - journalism
 date: 2016-02-23 06:01:00
-guid: http://sravantitekumalla.com/?p=27
+guid: https://sravantitekumalla.com/?p=27
 id: 27
 permalink: /when-github-and-moma-collide/
 title: '[WIP] When Github and MoMA collide'

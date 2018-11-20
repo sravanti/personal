@@ -4,21 +4,21 @@ categories:
   - journalism
   - programming
 date: 2018-08-03 12:30:11
-guid: http://sravantitekumalla.com/?p=166
+guid: https://sravantitekumalla.com/?p=166
 id: 166
 permalink: /looking-for-artists-who-look-like-me/
 title: 'Looking for Artists Who Look Like Me'
 url: /2018/08/03/looking-for-artists-who-look-like-me/
 ---
 
-_Note: this blog post is based on a talk I gave at Write/Speak/Code in NYC on August 3, 2018. [Find the slides here!](http://sravantitekumalla.com/momadiversity/) _
+_Note: this blog post is based on a talk I gave at Write/Speak/Code in NYC on August 3, 2018. [Find the slides here!](https://sravantitekumalla.com/momadiversity/) _
 
 <p class="p1">
-  In the past, I’ve <a href="http://sravantitekumalla.com/when-github-and-moma-collide/">documented</a> my previous attempts to analyze the MoMA GitHub repository of artists and artworks. Inspired by the initial analysis of the massive collection of art metadata by <a href="https://fivethirtyeight.com/features/a-nerds-guide-to-the-2229-paintings-at-moma/">FiveThirtyEight</a>, I set off to answer a few questions of my own. Initially, I was initially interested in questions like, “How rapidly has the museum collected art over time?” or “How many works of art were gifted to the museum versus bought? Who have been major donors over the years?”
+  In the past, I’ve <a href="https://sravantitekumalla.com/when-github-and-moma-collide/">documented</a> my previous attempts to analyze the MoMA GitHub repository of artists and artworks. Inspired by the initial analysis of the massive collection of art metadata by <a href="https://fivethirtyeight.com/features/a-nerds-guide-to-the-2229-paintings-at-moma/">FiveThirtyEight</a>, I set off to answer a few questions of my own. Initially, I was initially interested in questions like, “How rapidly has the museum collected art over time?” or “How many works of art were gifted to the museum versus bought? Who have been major donors over the years?”
 </p>
 
 <p class="p1">
-  I gathered some basic insights in my <a href="http://sravantitekumalla.com/when-github-and-moma-collide/">WIP post</a>, but didn’t really delve into it further. The questions above were interesting to answer, but didn&#8217;t reflect what I was really interested in, which were questions about diversity of art and artists over time.  Is the MoMA including more women over time? How about POC artists?
+  I gathered some basic insights in my <a href="https://sravantitekumalla.com/when-github-and-moma-collide/">WIP post</a>, but didn’t really delve into it further. The questions above were interesting to answer, but didn&#8217;t reflect what I was really interested in, which were questions about diversity of art and artists over time.  Is the MoMA including more women over time? How about POC artists?
 </p>
 
 <p style="padding-left: 30px;">
@@ -30,7 +30,7 @@ _Note: this blog post is based on a talk I gave at Write/Speak/Code in NYC on Au
 </p>
 
 <p class="p1">
-  <img class="alignnone size-medium wp-image-167" src="http://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.29.26-PM-300x284.png" alt="" width="300" height="284" srcset="http://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.29.26-PM-300x284.png 300w, http://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.29.26-PM.png 664w" sizes="(max-width: 300px) 100vw, 300px" />
+  <img class="alignnone size-medium wp-image-167" src="https://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.29.26-PM-300x284.png" alt="" width="300" height="284" srcset="https://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.29.26-PM-300x284.png 300w, https://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.29.26-PM.png 664w" sizes="(max-width: 300px) 100vw, 300px" />
 </p>
 
 <p class="p1">
@@ -50,7 +50,7 @@ _Note: this blog post is based on a talk I gave at Write/Speak/Code in NYC on Au
 </p>
 
 <p class="p1">
-  <img class="alignnone wp-image-168 size-large" src="http://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.30.07-PM-1024x621.png" alt="" width="1024" height="621" />
+  <img class="alignnone wp-image-168 size-large" src="https://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.30.07-PM-1024x621.png" alt="" width="1024" height="621" />
 </p>
 
 <p style="padding-left: 30px;">
@@ -65,14 +65,14 @@ _Note: this blog post is based on a talk I gave at Write/Speak/Code in NYC on Au
   If you’re looking for a silver lining, though, it’s that the MoMA includes more female artists than the Metropolitan Museum of Art (according to the below statistic by the Guerrilla Girls, a feminist art group):
 </p>
 
-<img class="alignnone wp-image-169 size-large" src="http://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.30.52-PM-1024x467.png" alt="" width="1024" height="467" srcset="http://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.30.52-PM-1024x467.png 1024w, http://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.30.52-PM-300x137.png 300w, http://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.30.52-PM-768x350.png 768w, http://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.30.52-PM.png 1390w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img class="alignnone wp-image-169 size-large" src="https://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.30.52-PM-1024x467.png" alt="" width="1024" height="467" srcset="https://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.30.52-PM-1024x467.png 1024w, https://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.30.52-PM-300x137.png 300w, https://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.30.52-PM-768x350.png 768w, https://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.30.52-PM.png 1390w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 <p class="p1">
   The second part of my hypothesis was that MoMA includes more POC over time, for the same reasons of progressivism and that MoMA tends to be more open to different identities of artists compared to older art institutions. As a starting point, remember that we have nationality, not race, in our dataset. As I mapped out gender over time, I decided to map the top 15 nationalities over time—mapping out all of the countries would be too much for a line graph. Is this a job for a choropleth over time? Yes! Did I have time to mess around with d3 to get a choropleth graph over time? No. 🙁 In any case, here’s the graph:
 </p>
 
 <p class="p1">
-  <img class="alignnone wp-image-170 size-large" src="http://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.31.19-PM-1024x701.png" alt="" width="1024" height="701" srcset="http://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.31.19-PM-1024x701.png 1024w, http://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.31.19-PM-300x205.png 300w, http://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.31.19-PM-768x526.png 768w, http://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.31.19-PM.png 1396w" sizes="(max-width: 1024px) 100vw, 1024px" />
+  <img class="alignnone wp-image-170 size-large" src="https://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.31.19-PM-1024x701.png" alt="" width="1024" height="701" srcset="https://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.31.19-PM-1024x701.png 1024w, https://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.31.19-PM-300x205.png 300w, https://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.31.19-PM-768x526.png 768w, https://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-4.31.19-PM.png 1396w" sizes="(max-width: 1024px) 100vw, 1024px" />
 </p>
 
 <p style="padding-left: 30px;">
@@ -88,7 +88,7 @@ _Note: this blog post is based on a talk I gave at Write/Speak/Code in NYC on Au
 </p>
 
 <p class="p1">
-  As we know, though, Americans != white people. How can we then go on to quantify race? This is a tricky problem, and not one that has a bulletproof solution. It’s important to note here that I’m not trying to box anyone into a race or guess what race someone is. It’s more that I’m trying to understand race at the aggregate level. Luckily, there’s an API that can help take a name and spit out the two most likely ethnicities of a person: the diaspora API from <a href="http://www.namsor.com/">NamSor</a> with a probability attached to each ethnicity.
+  As we know, though, Americans != white people. How can we then go on to quantify race? This is a tricky problem, and not one that has a bulletproof solution. It’s important to note here that I’m not trying to box anyone into a race or guess what race someone is. It’s more that I’m trying to understand race at the aggregate level. Luckily, there’s an API that can help take a name and spit out the two most likely ethnicities of a person: the diaspora API from <a href="https://www.namsor.com/">NamSor</a> with a probability attached to each ethnicity.
 </p>
 
 <p class="p1">
@@ -100,7 +100,7 @@ _Note: this blog post is based on a talk I gave at Write/Speak/Code in NYC on Au
 </p>
 
 <p class="p1">
-  <img class="alignnone wp-image-172 size-large" src="http://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-5.42.44-PM-544x1024.png" alt="" width="544" height="1024" srcset="http://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-5.42.44-PM-544x1024.png 544w, http://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-5.42.44-PM-159x300.png 159w, http://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-5.42.44-PM-768x1446.png 768w, http://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-5.42.44-PM.png 806w" sizes="(max-width: 544px) 100vw, 544px" />
+  <img class="alignnone wp-image-172 size-large" src="https://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-5.42.44-PM-544x1024.png" alt="" width="544" height="1024" srcset="https://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-5.42.44-PM-544x1024.png 544w, https://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-5.42.44-PM-159x300.png 159w, https://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-5.42.44-PM-768x1446.png 768w, https://sravantitekumalla.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-01-at-5.42.44-PM.png 806w" sizes="(max-width: 544px) 100vw, 544px" />
 </p>
 
 <p class="p1">

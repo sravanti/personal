@@ -3,7 +3,7 @@ author: sravanti
 categories:
   - music
 date: 2018-02-13 06:36:16
-guid: http://sravantitekumalla.com/?p=156
+guid: https://sravantitekumalla.com/?p=156
 id: 156
 permalink: /classical-music-and-collaboration/
 title: Classical Music & Collaboration
@@ -78,11 +78,11 @@ url: /2018/02/13/classical-music-and-collaboration/
 > <div>
 >   <span style="font-family: Georgia;">But the age old question still remains: in a concerto, who is the boss? The soloist or the conductor? The answer is, of course, sometimes one, sometimes the other depending on the people involved. But almost always, the two manage to get together by persuasion or charm, or even threats to achieve a unified performance. I have only once before, in my life, have to submit to a soloist’s wholly new and incompatible concept, and that was the last time I accompanied Mr.Gould.</span>
 > </div>
-> 
+>
 > <div>
 >   <span style="font-family: Georgia;"> </span>
 > </div>
-> 
+>
 > <div>
 >   <span style="font-family: Georgia;">But, this time, the discrepancies between our views are so great that I feel I must make this small disclaimer. To repeat the question, why am I conducting it?…Because I am fascinated, glad to have the chance for a new look at a much played work…Finally because, there is the sportive element. That factor of curiosity, adventure, and experiment. And I can assure you it has been an adventure this week. </span>
 > </div>

@@ -1,7 +1,7 @@
 ---
 author: sravanti
 date: 2018-08-01 20:26:26
-guid: http://sravantitekumalla.com/?page_id=163
+guid: https://sravantitekumalla.com/?page_id=163
 id: 163
 title: 'Slides: Looking for Artists Who Look Like Me'
 url: /momadiversity

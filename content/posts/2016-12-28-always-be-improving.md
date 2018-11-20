@@ -3,7 +3,7 @@ author: sravanti
 categories:
   - programming
 date: 2016-12-28 20:31:16
-guid: http://sravantitekumalla.com/?p=92
+guid: https://sravantitekumalla.com/?p=92
 id: 92
 permalink: /always-be-improving/
 title: 'Always Be Improving: Curating developer experiences'
